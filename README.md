@@ -4,6 +4,8 @@ An intelligent news curation platform that uses AI to analyze, graph, and person
 
 ## Architecture
 
+![News Curator Architecture](docs/images/architecture.png)
+
 This system follows an **Event-Driven Microservices** pattern with two distinct planes:
 
 ### Data Plane (Async)
